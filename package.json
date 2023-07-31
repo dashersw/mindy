@@ -1,0 +1,17 @@
+{
+  "name": "mindy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "simple-fonts": "github:niklauslee/simple-fonts",
+    "st7735": "github:niklauslee/st7735",
+    "st7789": "github:niklauslee/st7789"
+  }
+}
